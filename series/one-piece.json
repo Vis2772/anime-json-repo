@@ -1,0 +1,34 @@
+{
+  "id": "one-piece",
+  "title": "One Piece",
+  "poster": "https://ton-site.com/images/one-piece.jpg",
+  "seasons": [
+    {
+      "season": 11,
+      "episodes": [
+        {
+          "episode": 1089,
+          "title": "Episode 1089",
+          "sources": [
+            {
+              "name": "Lecteur 1",
+              "url": "https://TON-SITE.com/videos/onepiece/1089.mp4",
+              "quality": "1080p"
+            }
+          ]
+        },
+        {
+          "episode": 1090,
+          "title": "Episode 1090",
+          "sources": [
+            {
+              "name": "Lecteur 1",
+              "url": "https://TON-SITE.com/videos/onepiece/1090.mp4",
+              "quality": "1080p"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
